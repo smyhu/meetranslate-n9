@@ -1,0 +1,13 @@
+Package: meetranslate
+Version: 0.1.1
+Section: user/utilities
+Priority: optional
+Architecture: armel
+Depends: python (>= 2.6), python-pyside.qtcore, python-pyside.qtgui, python-pyside.qtdeclarative, qt-components, libqt4-network
+Maintainer: smyhu <smyhu@users.noreply.github.com>
+Description: MeeTranslate: translator for the Nokia N9 (by Claude with smyhu)
+ Online translation with Google Translate and MyMemory, dictionary for
+ single words, offline WikDict dictionaries (Wiktionary) and reading
+ the translation aloud. Polish, English, German, Spanish, Italian and
+ French user interface.
+XSBC-Maemo-Display-Name: MeeTranslate

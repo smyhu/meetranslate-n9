@@ -1,0 +1,14 @@
+MeeTranslate - translator for the Nokia N9
+Designed and written by Claude (Anthropic) together with smyhu.
+
+Copyright (c) 2026 smyhu
+License: MIT (see LICENSE in the source repository)
+
+Data and services used at run time:
+- Google Translate and Google text-to-speech (translate.googleapis.com,
+  translate.google.com), unofficial public endpoints.
+- MyMemory (api.mymemory.translated.net).
+- WikDict dictionaries (download.wikdict.com), built from Wiktionary,
+  CC BY-SA 3.0; downloaded by the user, not shipped in this package.
+Language names: Google Translate language list.
+Look inspired by TAO Translator by Oleksii Serdiuk (no code taken).
