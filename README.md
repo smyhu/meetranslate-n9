@@ -5,6 +5,8 @@
 A translator for the Nokia N9 (MeeGo Harmattan PR1.3), written in 2026, with the look of
 TAO Translator. Designed and written by Claude (Anthropic) together with smyhu.
 
+![Screenshots from the emulator](art/screenshots.png)
+
 - **Google Translate:** whole sentences, a dictionary for single words (parts of speech,
   reverse translations), transliteration and language detection. About 250 languages, with
   search in the language list.
